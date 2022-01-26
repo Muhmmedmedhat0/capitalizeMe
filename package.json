@@ -1,0 +1,22 @@
+{
+  "name": "capitalize-me",
+  "version": "1.0.0",
+  "description": " a simple library that converts a sentence to title case (in which the first letter of every word is capitalized).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhmmedmedhat0/title-case-converter.git"
+  },
+  "keywords": [
+    "capitalize"
+  ],
+  "author": "muhmmed_medhat <muhmmedmedhat0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhmmedmedhat0/title-case-converter/issues"
+  },
+  "homepage": "https://github.com/Muhmmedmedhat0/title-case-converter#readme"
+}
